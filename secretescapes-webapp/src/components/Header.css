@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: darkslategray;
+}
+
+.link{
+    display: flex;
+    text-decoration : none;
+    margin: 20px 30px 20px 0;
+    color: beige;
+}

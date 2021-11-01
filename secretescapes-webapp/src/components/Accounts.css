@@ -1,0 +1,24 @@
+.accounts-table{
+  margin: auto;
+  background-color: darkslategray;
+  border-radius: 10px;
+  margin-top: 30px;
+  min-width: 500px;
+
+}
+
+.accounts-link{
+  color: rgb(180, 180, 176);
+  text-decoration: none;
+  font-weight: 400;
+}
+
+.accounts-table-title{
+  color: beige;
+}
+
+.accounts-title{
+  justify-content: center;
+  display: flex;
+  color: darkslategray;
+}

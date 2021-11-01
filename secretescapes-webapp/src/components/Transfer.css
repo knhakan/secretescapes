@@ -1,0 +1,43 @@
+.payment-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.transfer-container{
+    background-color: darkslategray;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 100px 0 100px;
+    min-height: 15vh;
+    min-width: 500px;
+
+}
+
+.transfer-label{
+    color: beige;
+    margin-right: 20px;
+    
+}
+.transfer-input{
+    margin-left: 10px;
+    border-radius: 3px;
+}
+.transfer-message{
+    display: flex;
+    justify-content: center;
+    color: darkslategray;
+}
+
+.transfer-title{
+  justify-content: center;
+  display: flex;
+  color: darkslategray;
+}
+
+.transfer-button{
+    color: darkslategray;
+}

@@ -1,0 +1,19 @@
+.transactions-row{
+    color: rgb(180, 180, 176);
+    font-weight: 400;
+}
+
+.transactions-table{
+    margin: auto;
+    background-color: darkslategray;
+    border-radius: 10px;
+    margin-top: 30px;
+    color: beige;
+    min-width: 500px;
+}
+
+.transactions-title{
+    justify-content: center;
+    display: flex;
+    color: darkslategray;
+}
