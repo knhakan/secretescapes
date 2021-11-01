@@ -15,7 +15,11 @@ Simply go to *application.properties* and insert the credentials for the email c
     
   `spring.mail.username=*username*`  
   `spring.mail.password=*password*`  
-  
+### Modifying baseURL  
+
+The snippet to change BaseURL is placed in *index.js* under src.   
+`axios.defaults.baseURL = "http://localhost:8081/"`
+
 ### Application Installation in Docker
 The application can run as a Docker container.  
   
