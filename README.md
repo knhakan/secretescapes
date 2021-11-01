@@ -1,4 +1,4 @@
-# Secret Escapes payment aplication  
+# Secret Escapes payment application  
 
 A simple repository to implement a payment application for Secret Escapes.   
 The project contains both Backend written in Java/Spring Boot and frontend written in ReactJs.  The directory *secretescapes-webapp* contains the frontend component.  
