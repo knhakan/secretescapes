@@ -29,3 +29,11 @@ directory of the project). Precisement both in naming and in path selection is i
 contains `COPY target/paymentapp-0.0.1-SNAPSHOT.jar paymentapp-service.jar` command. If the user wants to customise naming or path, 
 he/she should simply change the paths and the namings as desired in this command, as well.  
 
+## Setting up Frontend
+
+You must have node installed in your system. Go to directory *secretescapes-webapp* and run the code
+  `npm install`  
+
+Once the installation is completed, run
+ `npm start` 
+The application will be up in localhost:3000
