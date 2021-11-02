@@ -4,6 +4,13 @@ A simple repository to implement a payment application for Secret Escapes.
 The project contains both Backend written in Java/Spring Boot and frontend written in ReactJs.  The directory *secretescapes-webapp* contains the frontend component.  
 For database, one in-memory database, H2, have been used.
 
+I have used:    
+Java 11  
+Node 12.18.3  
+H2 database  
+ReactJS 17.0.2     
+
+
 ## Getting started
 To run this app locally, you will need to :
 
@@ -15,6 +22,8 @@ Simply go to *application.properties* and insert the credentials for the email c
     
   `spring.mail.username=*username*`  
   `spring.mail.password=*password*`  
+  
+  Please note that you need to enable the application to access your email client. For instance, for Gmail, check here, https://support.google.com/accounts/answer/6010255?hl=en
 ### Modifying baseURL  
 
 The snippet to change BaseURL is placed in *index.js* under src.   
